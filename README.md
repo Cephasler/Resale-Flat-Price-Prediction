@@ -1,6 +1,6 @@
 # Resale-Flat-Price-Prediction
 
-This file contains the following:
+This repository contains the following:
 
 Jupyter Notebooks used for data processing:
 - Data Retrieval and Synthesis: this notebook includes the reading of csv files in pandas dataframe, accessing additional coordinates information via geopy and conversion of categorical data into continous/numerical data
