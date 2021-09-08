@@ -14,5 +14,8 @@ CSV files containing the raw data as well as the data retrieved from similar pro
 - street_name_coords_v1: this csv file contains the coordinates of all the unique steet names in the final resale flat prices data set
 - resale_xxxx_xxxx: the csv files saved using this nomenclature are the resale prices downloaded from Data.gov.sg and eventually compiled into a single final dataset with the augmentation with other data files; original source: https://data.gov.sg/dataset/resale-flat-prices
 
+Excel files:
+- Models: includes a run down of all the models that were explored in order to make prediction on resale flat prices and analyse the main drivers behind the prices; the summary includes the type of model used, training set, test set, feature importance, prediction score (R-squared value) and also the loss value (MSE value)
+
 Presentation slides:
 - Documentation: runs through all the data processing steps from retrieval, wrangling, exploration, modelling and prediction. This inlcudes the entire approach of the data processign project, the insights and results as well as the use case recommendations
